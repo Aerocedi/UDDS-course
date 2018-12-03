@@ -1,2 +1,2 @@
 # UDDS-course
-Data science with using DecisionTreeClassifier
+Data science using DecisionTreeClassifier
